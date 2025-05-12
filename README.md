@@ -2,7 +2,7 @@
 
 This repository contains an anonymized subset of a marine navigation dataset, providing multimodal sensor data for the B-COD project.
 
-Please download the dataset from [here](https://drive.google.com/drive/folders/1-hn1hIVhsf1EiL8lQO-WpRQ42gzn73id?usp=sharing).
+Please download the dataset from [this Google Drive link](https://drive.google.com/drive/folders/1-hn1hIVhsf1EiL8lQO-WpRQ42gzn73id?usp=sharing).
 
 ## Original Dataset Structure
 
@@ -47,7 +47,7 @@ Each data snippet contains:
 
 ## Download
 
-To download the dataset, please follow this [Google Drive link](INSERT_LINK_HERE).
+To download the dataset, please follow this [this Google Drive link](https://drive.google.com/drive/folders/1-hn1hIVhsf1EiL8lQO-WpRQ42gzn73id?usp=sharing).
 
 ## Usage
 
